@@ -1,0 +1,45 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29215.179
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "EPATVNews.database", "EPATVNews.database\EPATVNews.database.sqlproj", "{BDA51EBA-6DEE-45A3-81DF-8C07CB889DF1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EPATVNews.ui", "EPATVNews.ui\EPATVNews.ui.csproj", "{831E4FB3-0DB9-431A-AF09-5F7DEBF0F722}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EPATVNews.entities", "EPATVNews.entities\EPATVNews.entities.csproj", "{EC31393D-F105-49AB-9ECE-3ED2A7564F85}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EPATVNews.dataaccess", "EPATVNews.dataaccess\EPATVNews.dataaccess.csproj", "{53CBFC80-5CA8-4A6A-A8DA-8414D05452F3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BDA51EBA-6DEE-45A3-81DF-8C07CB889DF1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDA51EBA-6DEE-45A3-81DF-8C07CB889DF1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDA51EBA-6DEE-45A3-81DF-8C07CB889DF1}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{BDA51EBA-6DEE-45A3-81DF-8C07CB889DF1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDA51EBA-6DEE-45A3-81DF-8C07CB889DF1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BDA51EBA-6DEE-45A3-81DF-8C07CB889DF1}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{831E4FB3-0DB9-431A-AF09-5F7DEBF0F722}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{831E4FB3-0DB9-431A-AF09-5F7DEBF0F722}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{831E4FB3-0DB9-431A-AF09-5F7DEBF0F722}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{831E4FB3-0DB9-431A-AF09-5F7DEBF0F722}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EC31393D-F105-49AB-9ECE-3ED2A7564F85}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC31393D-F105-49AB-9ECE-3ED2A7564F85}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC31393D-F105-49AB-9ECE-3ED2A7564F85}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC31393D-F105-49AB-9ECE-3ED2A7564F85}.Release|Any CPU.Build.0 = Release|Any CPU
+		{53CBFC80-5CA8-4A6A-A8DA-8414D05452F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53CBFC80-5CA8-4A6A-A8DA-8414D05452F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53CBFC80-5CA8-4A6A-A8DA-8414D05452F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53CBFC80-5CA8-4A6A-A8DA-8414D05452F3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2BFB446D-2505-4674-A080-38A4D393BC44}
+	EndGlobalSection
+EndGlobal
