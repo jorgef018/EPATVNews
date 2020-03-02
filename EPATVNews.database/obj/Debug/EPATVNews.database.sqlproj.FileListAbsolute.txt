@@ -1,0 +1,10 @@
+D:\2019-2020\sim\PortableGit\ProjetoSIM\EPATVNews\EPATVNews.database\bin\Debug\EPATVNews.database.dacpac
+D:\2019-2020\sim\PortableGit\ProjetoSIM\EPATVNews\EPATVNews.database\obj\Debug\EPATVNews.database.sqlprojAssemblyReference.cache
+D:\2019-2020\sim\PortableGit\ProjetoSIM\EPATVNews\EPATVNews.database\obj\Debug\Model.xml
+D:\2019-2020\sim\PortableGit\ProjetoSIM\EPATVNews\EPATVNews.database\obj\Debug\refactor.xml
+D:\2019-2020\sim\PortableGit\ProjetoSIM\EPATVNews\EPATVNews.database\obj\Debug\postdeploy.sql
+D:\2019-2020\sim\PortableGit\ProjetoSIM\EPATVNews\EPATVNews.database\obj\Debug\predeploy.sql
+D:\2019-2020\sim\PortableGit\ProjetoSIM\EPATVNews\EPATVNews.database\obj\Debug\EPATVNews.database.dll
+D:\2019-2020\sim\PortableGit\ProjetoSIM\EPATVNews\EPATVNews.database\obj\Debug\EPATVNews.database.pdb
+D:\2019-2020\sim\PortableGit\ProjetoSIM\EPATVNews\EPATVNews.database\bin\Debug\EPATVNews.database.dll
+D:\2019-2020\sim\PortableGit\ProjetoSIM\EPATVNews\EPATVNews.database\bin\Debug\EPATVNews.database.pdb

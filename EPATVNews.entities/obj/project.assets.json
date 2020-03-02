@@ -179,23 +179,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Admin\\.nuget\\packages\\": {},
+    "C:\\Users\\Utilizador\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\2019-2020\\sim\\PortableGit\\ProjetoSIM\\EPATVNews\\EPATVNews\\EPATVNews.entities\\EPATVNews.entities.csproj",
+      "projectUniqueName": "D:\\2019-2020\\sim\\PortableGit\\ProjetoSIM\\EPATVNews\\EPATVNews.entities\\EPATVNews.entities.csproj",
       "projectName": "EPATVNews.entities",
-      "projectPath": "D:\\2019-2020\\sim\\PortableGit\\ProjetoSIM\\EPATVNews\\EPATVNews\\EPATVNews.entities\\EPATVNews.entities.csproj",
-      "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "D:\\2019-2020\\sim\\PortableGit\\ProjetoSIM\\EPATVNews\\EPATVNews\\EPATVNews.entities\\obj\\",
+      "projectPath": "D:\\2019-2020\\sim\\PortableGit\\ProjetoSIM\\EPATVNews\\EPATVNews.entities\\EPATVNews.entities.csproj",
+      "packagesPath": "C:\\Users\\Utilizador\\.nuget\\packages\\",
+      "outputPath": "D:\\2019-2020\\sim\\PortableGit\\ProjetoSIM\\EPATVNews\\EPATVNews.entities\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Utilizador\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

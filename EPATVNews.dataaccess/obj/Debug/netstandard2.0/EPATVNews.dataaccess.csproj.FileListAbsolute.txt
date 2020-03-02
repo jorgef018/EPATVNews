@@ -1,0 +1,9 @@
+D:\2019-2020\sim\PortableGit\ProjetoSIM\EPATVNews\EPATVNews.dataaccess\bin\Debug\netstandard2.0\EPATVNews.dataaccess.deps.json
+D:\2019-2020\sim\PortableGit\ProjetoSIM\EPATVNews\EPATVNews.dataaccess\bin\Debug\netstandard2.0\EPATVNews.dataaccess.dll
+D:\2019-2020\sim\PortableGit\ProjetoSIM\EPATVNews\EPATVNews.dataaccess\bin\Debug\netstandard2.0\EPATVNews.dataaccess.pdb
+D:\2019-2020\sim\PortableGit\ProjetoSIM\EPATVNews\EPATVNews.dataaccess\obj\Debug\netstandard2.0\EPATVNews.dataaccess.csprojAssemblyReference.cache
+D:\2019-2020\sim\PortableGit\ProjetoSIM\EPATVNews\EPATVNews.dataaccess\obj\Debug\netstandard2.0\EPATVNews.dataaccess.csproj.CoreCompileInputs.cache
+D:\2019-2020\sim\PortableGit\ProjetoSIM\EPATVNews\EPATVNews.dataaccess\obj\Debug\netstandard2.0\EPATVNews.dataaccess.AssemblyInfoInputs.cache
+D:\2019-2020\sim\PortableGit\ProjetoSIM\EPATVNews\EPATVNews.dataaccess\obj\Debug\netstandard2.0\EPATVNews.dataaccess.AssemblyInfo.cs
+D:\2019-2020\sim\PortableGit\ProjetoSIM\EPATVNews\EPATVNews.dataaccess\obj\Debug\netstandard2.0\EPATVNews.dataaccess.dll
+D:\2019-2020\sim\PortableGit\ProjetoSIM\EPATVNews\EPATVNews.dataaccess\obj\Debug\netstandard2.0\EPATVNews.dataaccess.pdb

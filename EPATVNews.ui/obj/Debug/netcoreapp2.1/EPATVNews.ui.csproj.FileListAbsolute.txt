@@ -1,0 +1,11 @@
+D:\2019-2020\sim\PortableGit\ProjetoSIM\EPATVNews\EPATVNews.ui\bin\Debug\netcoreapp2.1\EPATVNews.ui.deps.json
+D:\2019-2020\sim\PortableGit\ProjetoSIM\EPATVNews\EPATVNews.ui\bin\Debug\netcoreapp2.1\EPATVNews.ui.runtimeconfig.json
+D:\2019-2020\sim\PortableGit\ProjetoSIM\EPATVNews\EPATVNews.ui\bin\Debug\netcoreapp2.1\EPATVNews.ui.runtimeconfig.dev.json
+D:\2019-2020\sim\PortableGit\ProjetoSIM\EPATVNews\EPATVNews.ui\bin\Debug\netcoreapp2.1\EPATVNews.ui.dll
+D:\2019-2020\sim\PortableGit\ProjetoSIM\EPATVNews\EPATVNews.ui\bin\Debug\netcoreapp2.1\EPATVNews.ui.pdb
+D:\2019-2020\sim\PortableGit\ProjetoSIM\EPATVNews\EPATVNews.ui\obj\Debug\netcoreapp2.1\EPATVNews.ui.csprojAssemblyReference.cache
+D:\2019-2020\sim\PortableGit\ProjetoSIM\EPATVNews\EPATVNews.ui\obj\Debug\netcoreapp2.1\EPATVNews.ui.csproj.CoreCompileInputs.cache
+D:\2019-2020\sim\PortableGit\ProjetoSIM\EPATVNews\EPATVNews.ui\obj\Debug\netcoreapp2.1\EPATVNews.ui.AssemblyInfoInputs.cache
+D:\2019-2020\sim\PortableGit\ProjetoSIM\EPATVNews\EPATVNews.ui\obj\Debug\netcoreapp2.1\EPATVNews.ui.AssemblyInfo.cs
+D:\2019-2020\sim\PortableGit\ProjetoSIM\EPATVNews\EPATVNews.ui\obj\Debug\netcoreapp2.1\EPATVNews.ui.dll
+D:\2019-2020\sim\PortableGit\ProjetoSIM\EPATVNews\EPATVNews.ui\obj\Debug\netcoreapp2.1\EPATVNews.ui.pdb
